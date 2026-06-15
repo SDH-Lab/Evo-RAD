@@ -1,5 +1,7 @@
 # Evo-RAD: Navigating Rare Retinal Disease Diagnosis via Self-Evolving Agentic Retrieval
 
+**🔥 Accepted by MICCAI 2026 (The 29th International Conference on Medical Image Computing and Computer Assisted Intervention)!**
+
 This repository contains the official implementation of **Evo-RAD**, a self-evolving agentic retrieval framework for rare retinal disease diagnosis. The system uses a GCN-based policy network trained with Group Relative Policy Optimization (GRPO) to dynamically refine retrieval sets, improving diagnostic accuracy through iterative insert/delete actions guided by multi-dimensional rewards.
 
 ## Project Structure
